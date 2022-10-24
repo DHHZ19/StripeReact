@@ -2,7 +2,7 @@ import { Card, Button, Form, Row, Col } from "react-bootstrap";
 
 function ProductCard(props) {
   // props.product is the product we are selling
-  const product = props.prodcut;
+  const product = props.product;
 
   return (
     <Card>
